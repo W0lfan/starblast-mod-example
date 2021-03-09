@@ -105,7 +105,6 @@ this.options = {
 
 *Got it! Like this?*
 ```
-
 this.options = {
   // see documentation for options reference
   root_mode: "survival",
