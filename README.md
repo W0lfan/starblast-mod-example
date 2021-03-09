@@ -127,7 +127,7 @@ this.options = {
 
 <br>
 
-**So, at the end, your mod code will look like this:**
+**So, at the end, your mod code will look like this** (the ship code is different because of SET):
 
 ![Final ship code test](https://media.discordapp.net/attachments/815132233559703585/818919922645729320/Capture_decran_du_2021-03-09_19-55-06.png)
 
