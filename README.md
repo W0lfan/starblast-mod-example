@@ -95,7 +95,7 @@ this.options = {
 };
 ```
 
-<br><br><br>
+<br><br>
 
 
 **What you will have to do is placing a new line in this part: `ships: theNameOfTheContainerVariableYouCreatedBefore`.**
@@ -124,7 +124,7 @@ this.options = {
 
 ![Final ship code test](https://media.discordapp.net/attachments/815132233559703585/818919922645729320/Capture_decran_du_2021-03-09_19-55-06.png)
 
-<br><br>
+<br>
 
 **Now, just type in the console (the right part) `start`. And here we are, a link is dropped, and you can test your ship trough it!**
 
