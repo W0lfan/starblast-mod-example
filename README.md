@@ -6,7 +6,7 @@ Let's start coding!
 
 ## Let's just make a basic mod!
 ###### Ship testing!
-*Wow!!! I'm so happy! I finally made a ship!! This is so cool!*<br><br><br>
+*Wow!!! I'm so happy! I finally made a ship!! This is so cool!*
 
 *So cool! Can i test it?*
 
@@ -14,27 +14,27 @@ Let's start coding!
 
 *You don't know how to do? Let me explain it to you!*
 
-
+<br><br><br>
 **You made your ship and you want to test it? It's really simple!
 Just click on the circled button here:**
 
 ![Upload button (ship editor)](https://cdn.discordapp.com/attachments/815132233559703585/818907704398970900/Capture_decran_du_2021-03-09_19-06-41.png)
 
 
-
+<br><br>
 **A file will automatically be downloaded from your brower to your pc. Open this file and copypaste the code in the mod editor. To access the mod editor, click on the circled here:**
 
 ![Mod editor button](https://cdn.discordapp.com/attachments/815132233559703585/818908831140675604/Capture_decran_du_2021-03-09_19-11-13.png)
 
 
-
+<br><br>
 **You are now in a new tool, named the mod editor! In this editor, you will code everything related to your mod.
 The page looks like this right now:**
 
 ![Mod editor](https://cdn.discordapp.com/attachments/815132233559703585/818909125013405716/Capture_decran_du_2021-03-09_19-12-23.png)
 
 
-
+<br><br>
 There is not a lot of thing...but we will add them!
 
 
@@ -50,7 +50,7 @@ There is not a lot of thing...but we will add them!
 var ships = []
 ```  
 
-
+<br><br>
 ***You can obviously change the variable name, but then you will have to be careful about what you write in the `this.options` part...but we're not at this right now.***
 
 *That's all i have to do?*
@@ -58,7 +58,7 @@ var ships = []
 *No. Listen to Wolfan:*
 
 
-
+<br><br>
 **So. Now, we created a variable which will store the informations of the ships the mod will have in. There is two methods to "put the ships" in this variable:
 **
 
@@ -66,12 +66,12 @@ var ships = []
 ```
 var ships= [Fly_101]
 ```
-
+<br>
 **- The other method is to push the variable name in the variable. To push a ship in the variable, write after `var ships=[]` this (we still assume that my variable's name is `Fly_101`):**
 ```
 ships.push(Fly_101)
 
-
+<br>
 
  ```
  **It is how it does work: when the mod editor will see this line, it will understand this: "*I have to push* (`push`) *in the variable ships* (`ships`) *the value Fly_101* (`Fly_101`)."
@@ -82,7 +82,7 @@ ships.push(Fly_101)
  ]
 ``` 
 
-
+<br><br>
 
 **One step left, and you will be able to test your ship!**
 
@@ -98,7 +98,7 @@ this.options = {
 };
 ```
 
-
+<br><br><br>
 
 
 **What you will have to do is placing a new line in this part: `ships: theNameOfTheContainerVariableYouCreatedBefore`.**
@@ -119,13 +119,13 @@ this.options = {
 
 *Bhpsngum: **Epico***
 
-
+<br><br>
 
 **So, at the end, your mod code will look like this:**
 
 ![Final ship code test](https://media.discordapp.net/attachments/815132233559703585/818919922645729320/Capture_decran_du_2021-03-09_19-55-06.png)
 
-
+<br><br>
 
 **Now, just type in the console (the right part) `start`. And here we are, a link is dropped, and you can test your ship trough it!**
 
