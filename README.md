@@ -4,9 +4,11 @@ I suggest you to install the [SET extension](https://chrome.google.com/webstore/
 Let's start coding!
 
 **Summary:**
+
 <br>
 ----------------
 <br>
+
 1. [Ship testing](#ship-testing):
  - [Upload, and how to code the codes for testing a ship](upload-and-codes),
  - [Game options needed stuff](ships-and-game-option)
