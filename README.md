@@ -80,11 +80,48 @@ ships.push(Fly_101)
  ]
 ``` 
 
-**One step left, and you will be able to test your ship!
-**
+**One step left, and you will be able to test your ship!**
+
+**Alright. Now, you created the ship container, you added the ship code. Now, you will have to complete one more step before being able to test your ship!**
+
+**Look at your code. You will see a part named `this.options`. In there, there is basics game informations:**
+
+```
+this.options = {
+  // see documentation for options reference
+  root_mode: "survival",
+  map_size: 30
+};
+```
+
+
+**What you will have to do is placing a new line in this part: `ships: theNameOfTheContainerVariableYouCreatedBefore`.**
+
+*Got it! Like this?*
+```
+
+this.options = {
+  // see documentation for options reference
+  root_mode: "survival",
+  map_size: 30
+  ships:ships
+};
+```
+**No no no! Do not forget the comma! If you forget it, all of the code will be wrong! Put a comma after the `30`.**
+
+**And now, here we are! You can now test your ship!**
+
+*Bhpsngum: **Epico***
 
 
 
+**So, at the end, your mod code will look like this:**
+
+![Final ship code test](https://media.discordapp.net/attachments/815132233559703585/818919922645729320/Capture_decran_du_2021-03-09_19-55-06.png)
+
+
+
+**Now, just type in the console (the right part) `start`. And here we are, a link is dropped, and you can test your ship trough it!**
 
 
 
