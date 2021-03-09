@@ -23,7 +23,7 @@ Let's start coding!
 
 <br><br>
 **You made your ship and you want to test it? It's really simple!
-Just click on the circled button here:**
+Just click on the circled button here (also named "mod export" in the normal ship editor):**
 
 ![Upload button (ship editor)](https://cdn.discordapp.com/attachments/815132233559703585/818907704398970900/Capture_decran_du_2021-03-09_19-06-41.png)
 
