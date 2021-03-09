@@ -13,3 +13,7 @@ Let's start coding!
 *Yeah of cou.. wait, how can i test my mod? :hyperthonk:*
 
 *You don't know how to do? Let me explain it to you!*
+
+You made your ship and you want to test it? It's really simple!
+Just click on the circled button here:
+https://github.com/W0lfan/starblast-mod-example/issues/1#issue-826394334
