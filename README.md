@@ -10,9 +10,12 @@ Let's start coding!
 ----------------
 <br>
 
-*Wow!!! I'm so happy! I finally made a ship!! This is so cool!*
+*Wow!!! I'm so happy! I finally made a ship!! This is so cool!*<br>
+
 *So cool! Can i test it?*
+<br>
 *Yeah of cou.. wait, how can i test my mod? :hyperthonk:*
+<br>
 *You don't know how to do? Let me explain it to you!*
 
 <br><br><br>
@@ -38,9 +41,9 @@ The page looks like this right now:**
 <br><br>
 There is not a lot of thing...but we will add them!
 
-*So, what am i supposed to do now?!*
-*Paste the ship code you downloaded previously at the top of the mod editor.*
-*Alright...and now i can test it??*
+*So, what am i supposed to do now?!*<br>
+*Paste the ship code you downloaded previously at the top of the mod editor.*<br>
+*Alright...and now i can test it??*<br>
 ***Be careful, be careful. After the code you pasted, write this:***
 
 
