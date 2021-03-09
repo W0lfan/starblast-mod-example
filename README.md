@@ -103,7 +103,6 @@ this.options = {
 
 <br><br>
 
-
 **What you will have to do is placing a new line in this part: `ships: theNameOfTheContainerVariableYouCreatedBefore`.**
 
 *Got it! Like this?*
