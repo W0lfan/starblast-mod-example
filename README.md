@@ -69,7 +69,9 @@ var ships = []
 var ships= [Fly_101]
 ```
 <br>
+
 **- The other method is to push the variable name in the variable. To push a ship in the variable, write after `var ships=[]` this (we still assume that my variable's name is `Fly_101`):**
+
 ```
 ships.push(Fly_101)
  ```
