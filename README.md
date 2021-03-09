@@ -7,6 +7,9 @@ Let's start coding!
 ## Let's just make a basic mod!
 ###### Ship testing!
 *Wow!!! I'm so happy! I finally made a ship!! This is so cool!*
+
 *So cool! Can i test it?*
+
 *Yeah of cou.. wait, how can i test my mod? :hyperthonk:*
+
 *You don't know how to do? Let me explain it to you!*
