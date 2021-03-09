@@ -9,6 +9,9 @@ Let's start coding!
      - [Upload, and how to code the codes for testing a ship](#upload-and-codes),
      - [Game options needed stuff](#ships-and-game-options)
 
+<br>
+<br>
+
 ## Ship testing!
 ##### Upload and codes
 
