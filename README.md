@@ -17,7 +17,7 @@ Let's start coding!
 <br>
 *You don't know how to do? Let me explain it to you!*
 
-<br><br><br>
+<br><br>
 **You made your ship and you want to test it? It's really simple!
 Just click on the circled button here:**
 
