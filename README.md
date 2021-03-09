@@ -57,8 +57,8 @@ var ships = []
 *No. Listen to Wolfan:*
 
 <br><br>
-**So. Now, we created a variable which will store the informations of the ships the mod will have in. There is two methods to "put the ships" in this variable:
-**
+
+**So. Now, we created a variable which will store the informations of the ships the mod will have in. There is two methods to "put the ships" in this variable:**
 
 **- Write directely the name of the variable which store the ship code. The name of the variable is usually `TheShipName_TheShipTier`. If the variable name (a variable is written as `var`, the text after it (before the `=`) is the name of variable. Write directely the variable of the name in the variable. Assume that my variable name is `Fly_101`:**
 ```
