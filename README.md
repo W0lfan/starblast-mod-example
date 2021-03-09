@@ -10,11 +10,11 @@ Let's start coding!
 <br>
 
 1. [Ship testing](#ship-testing):
- - [Upload, and how to code the codes for testing a ship](upload-and-codes),
- - [Game options needed stuff](ships-and-game-option)
+ - [Upload, and how to code the codes for testing a ship](#upload-and-codes),
+ - [Game options needed stuff](#ships-and-game-option)
 
 ## Ship testing!
-##### Upload And Codes
+##### Upload and codes
 
 *Wow!!! I'm so happy! I finally made a ship!! This is so cool!*<br>
 *So cool! Can i test it?*
@@ -87,7 +87,7 @@ ships.push(Fly_101)
 
 <br><br>
 
-##### Ships And Game Options
+##### Ships and game options
 
 **One step left, and you will be able to test your ship!**
 
