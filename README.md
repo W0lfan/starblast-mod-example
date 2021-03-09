@@ -10,7 +10,6 @@ Let's start coding!
      - [Game options needed stuff](#ships-and-game-options)
 
 <br>
-<br>
 
 ## Ship testing!
 ##### Upload and codes
