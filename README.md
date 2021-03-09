@@ -5,7 +5,10 @@ Let's start coding!
 
 
 ## Let's just make a basic mod!
-###### Ship testing!
+**Ship testing**
+<br>
+----------------
+<br>
 *Wow!!! I'm so happy! I finally made a ship!! This is so cool!*
 
 *So cool! Can i test it?*
@@ -45,9 +48,7 @@ There is not a lot of thing...but we will add them!
 *Alright...and now i can test it??*
 
 ***Be careful, be careful. After the code you pasted, write this:***
-<br>
-----------------
-<br>
+
 
 ```
 var ships = []
@@ -85,9 +86,7 @@ ships.push(Fly_101)
 ``` 
 
 <br><br>
-<br>
-----------------
-<br>
+
 **One step left, and you will be able to test your ship!**
 
 **Alright. Now, you created the ship container, you added the ship code. Now, you will have to complete one more step before being able to test your ship!**
