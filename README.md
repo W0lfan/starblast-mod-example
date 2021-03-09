@@ -46,5 +46,26 @@ There is not a lot of thing...but we will add them!
 var ships = []
 ```  
 
-*You can obviously change the variable name, but then you will have to be careful about what you write in the `this.options` part...but we're not at this right now.*
+
+*You can obviously changethe variable name, but then you will have to be careful about what you write in the `this.options` part...but we're not at this right now.*
+
+*That's all i have to do?*
+
+*No. Listen to Wolfan:*
+
+
+So. Now, we created a variable which will store the informations of the ships the mod will have in. There is two methods to "put the ships" in this variable:
+
+- Write directely the name of the variable which store the ship code. The name of the variable is usually `TheShipName_TheShipTier`. If the variable name (a variable is written as `var`, the text after it (before the `=`) is the name of variable. Write directely the variable of the name in the variable. Assume that my variable name is `Fly_101`:
+```
+var ships= [Fly_101]```
+
+
+
+
+
+
+
+
+
 
