@@ -16,6 +16,6 @@ Let's start coding!
 
 You made your ship and you want to test it? It's really simple!
 Just click on the circled button here:
-![alt text](https://github.com/W0lfan/starblast-mod-example/issues/1#issue-826394334)
 
-https://github.com/W0lfan/starblast-mod-example/issues/1#issue-826394334
+![alt text](https://cdn.discordapp.com/attachments/815132233559703585/818907704398970900/Capture_decran_du_2021-03-09_19-06-41.png)
+
