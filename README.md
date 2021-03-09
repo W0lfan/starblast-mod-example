@@ -14,7 +14,7 @@ Let's start coding!
  - [Game options needed stuff](ships-and-game-option)
 
 ## Ship testing!
-##### Upload and codes
+##### Upload And Codes
 
 *Wow!!! I'm so happy! I finally made a ship!! This is so cool!*<br>
 *So cool! Can i test it?*
@@ -87,7 +87,7 @@ ships.push(Fly_101)
 
 <br><br>
 
-##### Ships and game options
+##### Ships And Game Options
 
 **One step left, and you will be able to test your ship!**
 
