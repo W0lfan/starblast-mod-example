@@ -3,12 +3,16 @@ This document was made by Wolfan. The aim of it is to explain more easier how to
 I suggest you to install the [SET extension](https://chrome.google.com/webstore/detail/starblast-enhancement-too/bidhmieomigmdphceifkifanapkgmplc), because that is the extension i use in this tutorial. If you don't install it, you will notice some differences between the normal ship editor and the one i use. The utilities will still looks the same however. 
 Let's start coding!
 
-
-## Let's just make a basic mod!
-**Ship testing**
+**Summary:**
 <br>
 ----------------
 <br>
+1. [Ship testing](#ship-testing):
+ - [Upload, and how to code the codes for testing a ship](upload-and-codes),
+ - [Game options needed stuff](ships-and-game-option)
+
+## Ship testing!
+##### Upload and codes
 
 *Wow!!! I'm so happy! I finally made a ship!! This is so cool!*<br>
 *So cool! Can i test it?*
@@ -80,6 +84,8 @@ ships.push(Fly_101)
 ``` 
 
 <br><br>
+
+##### Ships and game options
 
 **One step left, and you will be able to test your ship!**
 
