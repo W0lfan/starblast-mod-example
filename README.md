@@ -58,8 +58,13 @@ So. Now, we created a variable which will store the informations of the ships th
 
 - Write directely the name of the variable which store the ship code. The name of the variable is usually `TheShipName_TheShipTier`. If the variable name (a variable is written as `var`, the text after it (before the `=`) is the name of variable. Write directely the variable of the name in the variable. Assume that my variable name is `Fly_101`:
 ```
-var ships= [Fly_101]```
-
+var ships= [Fly_101]
+```
+- The other method is to push the variable name in the variable. To push a ship in the variable, write after `var ships=[]` this (we still assume that my variable's name is `Fly_101`):
+```
+ships.push(Fly_101)
+ ```
+ It is how it does work: when the mod editor will see this line, it will understand this: "*I have to push* (`push`)*in the variable ships* (`ships`)*the value Fly_101* (`Fly_101`).
 
 
 
