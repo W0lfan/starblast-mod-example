@@ -114,9 +114,6 @@ this.options = {
 <br>
 
 **No no no! Do not forget the comma! If you forget it, all of the code will be wrong! Put a comma after the `30`.**
-
-<br>
-
 **And now, here we are! You can now test your ship!**
 
 <br>
