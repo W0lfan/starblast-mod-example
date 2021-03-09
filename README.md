@@ -118,7 +118,7 @@ this.options = {
 <br>
 <br>
 
-*Bhpsngum: **Epico***
+*Bhpsngum: **Epico** *
 
 <br><br>
 
