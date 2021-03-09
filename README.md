@@ -11,7 +11,6 @@ Let's start coding!
 <br>
 
 *Wow!!! I'm so happy! I finally made a ship!! This is so cool!*<br>
-
 *So cool! Can i test it?*
 <br>
 *Yeah of cou.. wait, how can i test my mod? :hyperthonk:*
