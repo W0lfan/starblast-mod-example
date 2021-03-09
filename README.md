@@ -9,12 +9,10 @@ Let's start coding!
 <br>
 ----------------
 <br>
+
 *Wow!!! I'm so happy! I finally made a ship!! This is so cool!*
-
 *So cool! Can i test it?*
-
 *Yeah of cou.. wait, how can i test my mod? :hyperthonk:*
-
 *You don't know how to do? Let me explain it to you!*
 
 <br><br><br>
@@ -40,13 +38,9 @@ The page looks like this right now:**
 <br><br>
 There is not a lot of thing...but we will add them!
 
-
 *So, what am i supposed to do now?!*
-
 *Paste the ship code you downloaded previously at the top of the mod editor.*
-
 *Alright...and now i can test it??*
-
 ***Be careful, be careful. After the code you pasted, write this:***
 
 
@@ -58,9 +52,7 @@ var ships = []
 ***You can obviously change the variable name, but then you will have to be careful about what you write in the `this.options` part...but we're not at this right now.***
 
 *That's all i have to do?*
-
 *No. Listen to Wolfan:*
-
 
 <br><br>
 **So. Now, we created a variable which will store the informations of the ships the mod will have in. There is two methods to "put the ships" in this variable:
