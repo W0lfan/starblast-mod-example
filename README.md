@@ -21,7 +21,7 @@ Just click on the circled button here:**
 ![Upload button (ship editor)](https://cdn.discordapp.com/attachments/815132233559703585/818907704398970900/Capture_decran_du_2021-03-09_19-06-41.png)
 
 
-
+—
 **A file will automatically be downloaded from your brower to your pc. Open this file and copypaste the code in the mod editor. To access the mod editor, click on the circled here:**
 
 ![Mod editor button](https://cdn.discordapp.com/attachments/815132233559703585/818908831140675604/Capture_decran_du_2021-03-09_19-11-13.png)
@@ -71,7 +71,7 @@ var ships= [Fly_101]
 ```
 ships.push(Fly_101)
  ```
- 
+ ———————————
  **It is how it does work: when the mod editor will see this line, it will understand this: "*I have to push* (`push`) *in the variable ships* (`ships`) *the value Fly_101* (`Fly_101`)."
  At the end, the variable will looks like that, with the two methods, even if it's not showed by the mod editor for the second method:** 
  ```
@@ -79,7 +79,7 @@ ships.push(Fly_101)
   Fly_101,
  ]
 ``` 
-
+——————————
 **One step left, and you will be able to test your ship!**
 
 **Alright. Now, you created the ship container, you added the ship code. Now, you will have to complete one more step before being able to test your ship!**
