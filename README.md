@@ -64,8 +64,15 @@ var ships= [Fly_101]
 ```
 ships.push(Fly_101)
  ```
- It is how it does work: when the mod editor will see this line, it will understand this: "*I have to push* (`push`) *in the variable ships* (`ships`) *the value Fly_101* (`Fly_101`).
+ It is how it does work: when the mod editor will see this line, it will understand this: "*I have to push* (`push`) *in the variable ships* (`ships`) *the value Fly_101* (`Fly_101`)."
+ At the end, the variable will looks like that, with the two methods, even if it's not showed by the mod editor for the second method: 
+ ```
+ var ships= [
+  Fly_101,
+ ]
+``` 
 
+One step left, and you will be able to test your ship!
 
 
 
