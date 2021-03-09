@@ -14,19 +14,19 @@ Let's start coding!
 
 *You don't know how to do? Let me explain it to you!*
 
-You made your ship and you want to test it? It's really simple!
-Just click on the circled button here:
+**You made your ship and you want to test it? It's really simple!
+Just click on the circled button here:**
 
 ![Upload button (ship editor)](https://cdn.discordapp.com/attachments/815132233559703585/818907704398970900/Capture_decran_du_2021-03-09_19-06-41.png)
 
 
-A file will automatically be downloaded from your brower to your pc. Open this file and copypaste the code in the mod editor. To access the mod editor, click on the circled here:
+**A file will automatically be downloaded from your brower to your pc. Open this file and copypaste the code in the mod editor. To access the mod editor, click on the circled here:**
 
 ![Mod editor button](https://cdn.discordapp.com/attachments/815132233559703585/818908831140675604/Capture_decran_du_2021-03-09_19-11-13.png)
 
 
-You are now in a new tool, named the mod editor! In this editor, you will code everything related to your mod.
-The page looks like this right now:
+**You are now in a new tool, named the mod editor! In this editor, you will code everything related to your mod.
+The page looks like this right now:**
 
 ![Mod editor](https://cdn.discordapp.com/attachments/815132233559703585/818909125013405716/Capture_decran_du_2021-03-09_19-12-23.png)
 
@@ -54,26 +54,26 @@ var ships = []
 *No. Listen to Wolfan:*
 
 
-So. Now, we created a variable which will store the informations of the ships the mod will have in. There is two methods to "put the ships" in this variable:
+**So. Now, we created a variable which will store the informations of the ships the mod will have in. There is two methods to "put the ships" in this variable:
 
-- Write directely the name of the variable which store the ship code. The name of the variable is usually `TheShipName_TheShipTier`. If the variable name (a variable is written as `var`, the text after it (before the `=`) is the name of variable. Write directely the variable of the name in the variable. Assume that my variable name is `Fly_101`:
+**- Write directely the name of the variable which store the ship code. The name of the variable is usually `TheShipName_TheShipTier`. If the variable name (a variable is written as `var`, the text after it (before the `=`) is the name of variable. Write directely the variable of the name in the variable. Assume that my variable name is `Fly_101`:**
 ```
 var ships= [Fly_101]
 ```
-- The other method is to push the variable name in the variable. To push a ship in the variable, write after `var ships=[]` this (we still assume that my variable's name is `Fly_101`):
+**- The other method is to push the variable name in the variable. To push a ship in the variable, write after `var ships=[]` this (we still assume that my variable's name is `Fly_101`):**
 ```
 ships.push(Fly_101)
  ```
- It is how it does work: when the mod editor will see this line, it will understand this: "*I have to push* (`push`) *in the variable ships* (`ships`) *the value Fly_101* (`Fly_101`)."
- At the end, the variable will looks like that, with the two methods, even if it's not showed by the mod editor for the second method: 
+ **It is how it does work: when the mod editor will see this line, it will understand this: "*I have to push* (`push`) *in the variable ships* (`ships`) *the value Fly_101* (`Fly_101`)."
+ At the end, the variable will looks like that, with the two methods, even if it's not showed by the mod editor for the second method:** 
  ```
  var ships= [
   Fly_101,
  ]
 ``` 
 
-One step left, and you will be able to test your ship!
-
+**One step left, and you will be able to test your ship!
+**
 
 
 
