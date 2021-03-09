@@ -64,7 +64,7 @@ var ships= [Fly_101]
 ```
 ships.push(Fly_101)
  ```
- It is how it does work: when the mod editor will see this line, it will understand this: "*I have to push* (`push`)*in the variable ships* (`ships`)*the value Fly_101* (`Fly_101`).
+ It is how it does work: when the mod editor will see this line, it will understand this: "*I have to push* (`push`) *in the variable ships* (`ships`) *the value Fly_101* (`Fly_101`).
 
 
 
