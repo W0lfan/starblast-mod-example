@@ -70,10 +70,9 @@ var ships= [Fly_101]
 **- The other method is to push the variable name in the variable. To push a ship in the variable, write after `var ships=[]` this (we still assume that my variable's name is `Fly_101`):**
 ```
 ships.push(Fly_101)
-
-<br>
-
  ```
+ <br>
+
  **It is how it does work: when the mod editor will see this line, it will understand this: "*I have to push* (`push`) *in the variable ships* (`ships`) *the value Fly_101* (`Fly_101`)."
  At the end, the variable will looks like that, with the two methods, even if it's not showed by the mod editor for the second method:** 
  ```
