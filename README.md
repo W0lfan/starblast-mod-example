@@ -23,22 +23,22 @@ Let's start coding!
 
 <br><br>
 **You made your ship and you want to test it? It's really simple!
-Just click on the circled button here (also named "mod export" in the normal ship editor):**
+Just click on the "mod export" button:**
 
-![Upload button (ship editor)](https://cdn.discordapp.com/attachments/815132233559703585/818907704398970900/Capture_decran_du_2021-03-09_19-06-41.png)
+![Upload button (ship editor)](https://cdn.discordapp.com/attachments/819178644093796363/819178989716242482/S_E_Mod_export_button.png)
 
 
 <br><br>
-**A file will automatically be downloaded from your brower to your pc. Open this file and copypaste the code in the mod editor. To access the mod editor, click on the circled here:**
+**A file will automatically be downloaded from your brower to your pc. Open this file and copypaste the code in the mod editor. To access the mod editor, click on the "mod editor" button:**
 
-![Mod editor button](https://cdn.discordapp.com/attachments/815132233559703585/818908831140675604/Capture_decran_du_2021-03-09_19-11-13.png)
+![Mod editor button](https://cdn.discordapp.com/attachments/819178644093796363/819179291102937188/Modding_Editor_Button_S_E.png)
 
 
 <br><br>
 **You are now in a new tool, named the mod editor! In this editor, you will code everything related to your mod.
 The page looks like this right now:**
 
-![Mod editor](https://cdn.discordapp.com/attachments/815132233559703585/818909125013405716/Capture_decran_du_2021-03-09_19-12-23.png)
+![Mod editor](https://cdn.discordapp.com/attachments/819178644093796363/819179570196381706/Sb_M_E_First.png)
 
 
 <br><br>
@@ -129,7 +129,7 @@ this.options = {
 
 **So, at the end, your mod code will look like this** (the ship code is different because of SET):
 
-![Final ship code test](https://media.discordapp.net/attachments/815132233559703585/818919922645729320/Capture_decran_du_2021-03-09_19-55-06.png)
+![Final ship code test](https://media.discordapp.net/attachments/819178644093796363/819179871447023636/First_Step_Mod_Editor.png)
 
 <br>
 
